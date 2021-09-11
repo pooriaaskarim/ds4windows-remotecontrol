@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- DS4Windows Configuration Data. 8/10/2021 2:00:31 PM -->
+
+<DS4Windows>
+  <flushHIDQueue>True</flushHIDQueue>
+  <idleDisconnectTimeout>300</idleDisconnectTimeout>
+  <Color>3,24,14</Color>
+  <RumbleBoost>100</RumbleBoost>
+  <ledAsBatteryIndicator>False</ledAsBatteryIndicator>
+  <FlashType>1</FlashType>
+  <flashBatteryAt>20</flashBatteryAt>
+  <touchSensitivity>100</touchSensitivity>
+  <LowColor>255,0,0</LowColor>
+  <ChargingColor>255,255,255</ChargingColor>
+  <FlashColor>0,128,128</FlashColor>
+  <touchpadJitterCompensation>False</touchpadJitterCompensation>
+  <lowerRCOn>False</lowerRCOn>
+  <tapSensitivity>100</tapSensitivity>
+  <doubleTap>True</doubleTap>
+  <scrollSensitivity>0</scrollSensitivity>
+  <LeftTriggerMiddle>0</LeftTriggerMiddle>
+  <RightTriggerMiddle>0</RightTriggerMiddle>
+  <ButtonMouseSensitivity>33</ButtonMouseSensitivity>
+  <Rainbow>0</Rainbow>
+  <LSDeadZone>0</LSDeadZone>
+  <RSDeadZone>0</RSDeadZone>
+  <SXDeadZone>0.25</SXDeadZone>
+  <SZDeadZone>0.25</SZDeadZone>
+  <Sensitivity>1|1|1|1|1|1</Sensitivity>
+  <ChargingType>2</ChargingType>
+  <MouseAcceleration>True</MouseAcceleration>
+  <LaunchProgram>
+  </LaunchProgram>
+  <DinputOnly>False</DinputOnly>
+  <StartTouchpadOff>False</StartTouchpadOff>
+  <UseTPforControls>False</UseTPforControls>
+  <UseSAforMouse>True</UseSAforMouse>
+  <SATriggers>3</SATriggers>
+  <GyroSensitivity>100</GyroSensitivity>
+  <GyroInvert>0</GyroInvert>
+  <LSCurve>0</LSCurve>
+  <RSCurve>0</RSCurve>
+  <ProfileActions>Disconnect Controller/bc</ProfileActions>
+  <Control>
+    <Button>
+      <LXNeg>FourthMouse</LXNeg>
+      <LXPos>FifthMouse</LXPos>
+      <LYNeg>Unbound</LYNeg>
+      <LYPos>Unbound</LYPos>
+      <RXNeg>Unbound</RXNeg>
+      <RXPos>Unbound</RXPos>
+      <RYNeg>Mouse Wheel Up</RYNeg>
+      <RYPos>Mouse Wheel Down</RYPos>
+      <R1>RightMouse</R1>
+      <R2>LeftMouse</R2>
+      <Triangle>Unbound</Triangle>
+      <Circle>Unbound</Circle>
+      <TouchLeft>Unbound</TouchLeft>
+      <TouchUpper>MiddleMouse</TouchUpper>
+      <TouchMulti>Unbound</TouchMulti>
+      <TouchRight>Unbound</TouchRight>
+      <GyroXPos>Unbound</GyroXPos>
+    </Button>
+    <Key>
+      <L1>174</L1>
+      <L2>175</L2>
+      <L3>162</L3>
+      <R3>164</R3>
+      <Square>13</Square>
+      <Cross>27</Cross>
+      <DpadUp>38</DpadUp>
+      <DpadRight>39</DpadRight>
+      <DpadDown>40</DpadDown>
+      <DpadLeft>37</DpadLeft>
+      <Share>9</Share>
+      <Options>91</Options>
+    </Key>
+    <Extras>
+      <LXNeg>0,13,0,0,0,0,0,0,0</LXNeg>
+      <LYNeg>0,0,0,0,0,0,0,1,33</LYNeg>
+      <LYPos>0,0,0,0,0,0,0,1,33</LYPos>
+      <RXNeg>0,0,0,0,0,0,0,1,33</RXNeg>
+      <RXPos>0,0,0,0,0,0,0,1,33</RXPos>
+      <RYNeg>0,0,0,0,0,0,0,1,33</RYNeg>
+      <RYPos>0,0,0,0,0,0,0,1,33</RYPos>
+      <R2>0,1,0,0,0,0,0,0,0</R2>
+      <TouchLeft>0,180,0,0,0,0,0,0,0</TouchLeft>
+      <TouchMulti>250,250,0,0,0,0,0,0,0</TouchMulti>
+      <TouchRight>180,0,0,0,0,0,0,0,0</TouchRight>
+    </Extras>
+    <KeyType>
+      <LYNeg>Unbound</LYNeg>
+      <LYPos>Unbound</LYPos>
+      <TouchRight>Unbound</TouchRight>
+    </KeyType>
+  </Control>
+  <ShiftControl />
+</DS4Windows>
