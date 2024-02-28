@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- DS4Windows Configuration Data. 02/29/2024 00:48:39 -->
+<!-- DS4Windows Configuration Data. 02/29/2024 00:52:00 -->
 <!-- Made with DS4Windows version 3.3.3 -->
 
 <DS4Windows app_version="3.3.3" config_version="5">
@@ -272,7 +272,6 @@
       <L2>Right Mouse Button</L2>
       <R2>Left Mouse Button</R2>
       <Triangle>Unbound</Triangle>
-      <PS>Unbound</PS>
       <TouchLeft>Unbound</TouchLeft>
       <TouchUpper>Middle Mouse Button</TouchUpper>
       <TouchMulti>Unbound</TouchMulti>
@@ -294,6 +293,7 @@
       <DpadRight>39</DpadRight>
       <DpadDown>40</DpadDown>
       <DpadLeft>37</DpadLeft>
+      <PS>91</PS>
       <Share>162</Share>
       <Options>18</Options>
     </Key>
@@ -314,7 +314,6 @@
     <KeyType>
       <RXNeg>MacroHoldMacro</RXNeg>
       <Triangle>Unbound</Triangle>
-      <PS>Unbound</PS>
       <TouchLeft>Unbound</TouchLeft>
       <TouchMulti>Unbound</TouchMulti>
       <TouchRight>Unbound</TouchRight>
